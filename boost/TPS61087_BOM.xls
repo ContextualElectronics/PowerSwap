@@ -1,0 +1,12 @@
+Part	Manufacturer	Part Number	Quantity	Price	Attribute 1 Name	Attribute 1 Value	Attribute 2 Name	Attribute 2 Value	Attribute 3 Name	Attribute 3 Value	Footprint
+"Cbyp"	"MuRata"	"GRM21BR61C105KA01L"	"1"	"0.01"	""	""	""	""	""	""	"0805"
+"Ccomp"	"Yageo America"	"CC0805KRX7R9BB821"	"1"	"0.01"	""	""	""	""	""	""	"0805"
+"Cin"	"MuRata"	"GRM31CR61A226KE19L"	"1"	"0.08"	""	""	""	""	""	""	"1206"
+"Cout"	"MuRata"	"GRM32ER61C476ME15L"	"1"	"0.24"	""	""	""	""	""	""	"1210"
+"Css"	"AVX"	"08053C104KAT2A"	"1"	"0.01"	""	""	""	""	""	""	"0805"
+"D1"	"Diodes Inc."	"B340LA-13-F"	"1"	"0.13"	"VFatIo"	"0.45V"	"Io"	"3A"	"VRRM"	"40V"	"SMA"
+"L1"	"Bourns"	"SRU1048-4R7Y"	"1"	"0.33"	"L"	"4.7uH"	"DCR"	"9.5mOhm"	"IDC"	"4.75A"	"SRU1048"
+"Rcomp"	"Panasonic"	"ERJ-6ENF5762V"	"1"	"0.01"	"Resistance"	"57.6kOhm"	"Tolerance"	"1%"	"Power"	"0.125W"	"0805"
+"Rfbb"	"Yageo America"	"RC0603FR-0739KL"	"1"	"0.01"	"Resistance"	"39kOhm"	"Tolerance"	"1%"	"Power"	"0.1W"	"0603"
+"Rfbt"	"Vishay-Dale"	"CRCW0402150KFKED"	"1"	"0.01"	"Resistance"	"150kOhm"	"Tolerance"	"1%"	"Power"	"0.063W"	"0402"
+"U1"	"Texas Instruments"	"TPS61087QDRCRQ1"	"1"	"1.87"	""	""	""	""	""	""	"DRC0010A"
