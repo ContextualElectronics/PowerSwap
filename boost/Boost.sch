@@ -425,4 +425,15 @@ Connection ~ 9800 3350
 Wire Wire Line
 	2050 3150 2050 3350
 Connection ~ 2050 3350
+Wire Wire Line
+	4600 4500 5600 4500
+Wire Wire Line
+	5600 4500 5600 4450
+Connection ~ 4600 4500
+Text Label 6250 3350 0    60   ~ 0
+SW
+Text Label 3200 3350 0    60   ~ 0
+Vin
+Text Label 7900 3350 0    60   ~ 0
+Vout
 $EndSCHEMATC
