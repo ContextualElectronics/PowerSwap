@@ -432,4 +432,8 @@ Wire Wire Line
 Connection ~ 4600 4500
 Text Label 6250 3350 0    60   ~ 0
 SW
+Text Label 3200 3350 0    60   ~ 0
+Vin
+Text Label 7900 3350 0    60   ~ 0
+Vout
 $EndSCHEMATC
